@@ -1,0 +1,2 @@
+2025-09-19 11:23:03,269 - INFO - Making GET request to https://fakerestapi.azurewebsites.net/api/v1/Books
+2025-09-19 11:23:04,712 - INFO - Response status code: 200

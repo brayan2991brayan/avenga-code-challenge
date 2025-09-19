@@ -1,0 +1,8 @@
+2025-09-19 11:22:13,621 - INFO - Making GET request to https://fakerestapi.azurewebsites.net/api/v1/Books
+2025-09-19 11:22:15,270 - INFO - Response status code: 200
+2025-09-19 11:22:15,279 - INFO - Making GET request to https://fakerestapi.azurewebsites.net/api/v1/Books/1
+2025-09-19 11:22:15,526 - INFO - Response status code: 200
+2025-09-19 11:22:15,529 - INFO - Making GET request to https://fakerestapi.azurewebsites.net/api/v1/Books/999999
+2025-09-19 11:22:15,753 - INFO - Response status code: 404
+2025-09-19 11:22:16,462 - INFO - Making GET request to https://fakerestapi.azurewebsites.net/api/v1/Books/0
+2025-09-19 11:22:16,801 - INFO - Response status code: 404

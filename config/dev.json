@@ -1,0 +1,16 @@
+{
+    "api": {
+        "base_url": "https://fakerestapi.azurewebsites.net",
+        "timeout": 10,
+        "retry_attempts": 3,
+        "retry_delay": 1
+    },
+    "test": {
+        "max_response_time": 1.0,
+        "parallel_threads": 4
+    },
+    "reporting": {
+        "screenshots_on_failure": true,
+        "html_report": true
+    }
+}

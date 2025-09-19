@@ -1,9 +1,6 @@
 import pytest
 import os
-import sys
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../src")))
-
-from api_client import APIClient
+from src.api_client import APIClient
 
 @pytest.fixture(scope="session")
 def api_client():
