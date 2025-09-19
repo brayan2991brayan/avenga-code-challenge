@@ -54,7 +54,7 @@ This project is a test automation framework for the Books API, built using Pytho
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <repository-url> git@github.com:brayan2991brayan/avenga-code-challenge.git
 cd avenga-code-challenge
 ```
 
